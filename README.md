@@ -1,5 +1,4 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=TheRealMangoAPI&data=repositories,stars,commits&theme=dark_magic_girl)](https://mangoapi.dev)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,css,c,cpp,csharp,go,json,postgresql,mysql,powershell,lua,markdown&theme=dark_magic_girl)](https://mangoapi.dev)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,electron,tailwind,express,dotnetcore,dotnet&theme=dark_magic_girl)](https://mangoapi.dev)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,webpack,firebase,mongodb,vercel,nodejs,apache,nginx,aws,prettier,redis&theme=dark_magic_girl)](https://mangoapi.dev)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&theme=dark_magic_girl)](https://mangoapi.dev)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=ts,cpp,go,json,postgresql,powershell,markdown&theme=dark_magic_girl)](https://mangoapi.dev)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,electron,tailwind,express&theme=dark_magic_girl)](https://mangoapi.dev)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,mongodb,vercel,nodejs,nginx,aws,prettier&theme=dark_magic_girl)](https://mangoapi.dev)
