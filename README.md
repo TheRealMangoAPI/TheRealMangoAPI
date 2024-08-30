@@ -1,6 +1,8 @@
-<table>
+<table width="2000">
 <tr>
-<td><img align="center" src="/stats.svg" alt="Stats"></td>
-<td><img align="center" src="/commits.svg" alt="Commits"></td>
+<td width="2000">
+<img align="center" width="100%" alt="lol" src="/stats.svg">
+<img align="center" width="100%" alt="lol" src="/commits.svg">
+</td>
 </tr>
 </table>
