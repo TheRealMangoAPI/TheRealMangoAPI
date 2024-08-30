@@ -1,8 +1,4 @@
-<table width="2000">
-<tr>
-<td width="2000">
-<img align="center" width="50%" alt="lol" src="/stats.svg">
-<img align="center" width="45%" alt="lol" src="/commits.svg">
-</td>
-</tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+    <img src="/stats.svg" alt="lol" style="width: 45%;">
+    <img src="/commits.svg" alt="lol" style="width: 45%;">
+</div>
