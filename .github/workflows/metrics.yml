@@ -28,7 +28,7 @@ jobs:
           # Options
           user: TheRealMangoAPI
           template: classic
-          base: header, activity, community
+          base: header, activity, community, repositories
           config_timezone: Europe/Zurich
 
   github-metrics-commits:
