@@ -1,4 +1,6 @@
-<p align="center">
-  <img src="/stats.svg" alt="Stats" style="width: 45%;"/>
-  <img src="/commits.svg" alt="Commits" style="width: 45%; margin-left: 10px;"/>
-</p>
+<table>
+<tr>
+<td><img align="center" src="/stats.svg" alt="Stats"></td>
+<td><img align="center" src="/commits.svg" alt="Commits"></td>
+</tr>
+</table>
