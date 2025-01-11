@@ -31,7 +31,7 @@ jobs:
           base: header, activity, community, repositories
           config_display: large
           config_timezone: Europe/Zurich
-          plugin_anilist: yes
+          plugin_anilist: no
           plugin_anilist_limit: 2
           plugin_anilist_limit_characters: 22
           plugin_anilist_medias: anime, manga
