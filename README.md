@@ -17,9 +17,13 @@
 
 <table>
   <tr>
-    <img src="https://cdn.fruity.gg/data/mango/project-portfolio.png" />
+    <a href="https://github.com/TheRealMangoAPI/portfolio">
+      <img src="https://cdn.fruity.gg/data/mango/project-portfolio.png" />
+    </a>
   </tr>
   <tr>
-    <img src="https://cdn.fruity.gg/data/mango/project-fruity.png" />
+    <a href="https://github.com/fruity-services">
+      <img src="https://cdn.fruity.gg/data/mango/project-fruity.png" />
+    </a>
   </tr>
 </table>
